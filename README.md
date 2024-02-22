@@ -25,4 +25,5 @@ resource "aws_s3_bucket" "my_bucket" {
 ```
 ## Links and images
 You can embed images into your documentation
+<img src="/img/apple.png" />
 
