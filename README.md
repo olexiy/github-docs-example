@@ -27,3 +27,20 @@ resource "aws_s3_bucket" "my_bucket" {
 You can embed images into your documentation
 <img src="/img/apple.png" />
 
+## Tasklists in Github
+
+Github extends Markdown to have a list where you can check of items. <sup>[1]</sup>
+
+- [ ] Finish Step 1
+- [ ] Finish Step 2
+- [ ] Finish Step 3
+
+- [x] task allready done
+- [ ] open task
+- [ ] #1 Link to issue
+
+# Reference
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
+- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+- [GFM - Task List ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
