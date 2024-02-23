@@ -39,8 +39,12 @@ Github extends Markdown to have a list where you can check of items. <sup>[1]</s
 - [ ] open task
 - [ ] #1 Link to issue
 
+## Extra pop
+- We can use emojies in markup<sup>[2]</sup> :brain:
+
 # Reference
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 - [GFM - Task List ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
+- [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<sup>[2]</sup>
