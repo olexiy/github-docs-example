@@ -39,6 +39,10 @@ Github extends Markdown to have a list where you can check of items. <sup>[1]</s
 - [ ] open task
 - [ ] #1 Link to issue
 
+## Tables
+We can also make a table
+
+
 ## Extra pop
 - We can use emojies in markup<sup>[2]</sup> :brain:
 
