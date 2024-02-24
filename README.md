@@ -46,11 +46,11 @@ We can also make a table. Columns are separated with pipe. On my Mac pipe is rig
 |Content 1|Content 2|
 
 ## Extra pop
-- We can use emojies in markup [^2] :brain:
+- We can use emojis in markup [^2] :brain:
 
 # Reference
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 [^1]: [GFM - Task List ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
-[^2]: [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)[^2]
+[^2]: [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
